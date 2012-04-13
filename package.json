@@ -1,0 +1,38 @@
+{
+  "name": "grunt-brunch",
+  "description": "A grunt plugin to compile resources using brunch plugins.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/puls/grunt-brunch",
+  "author": {
+    "name": "Jim Puls",
+    "email": "jim@nondifferentiable.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/puls/grunt-brunch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/puls/grunt-brunch/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/puls/grunt-brunch/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-brunch",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt": "~0.3.7"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.7"
+  },
+  "keywords": []
+}
